@@ -18,7 +18,7 @@ My GitHub page is http://github.com/tyleraguilar.
     Lab 10, part 1, was a favorite because I enjoyed writing code that was able to solve a mathematical problem. I wrote a function that could decide whether a number was prime or not.
     Although this was simple, I started thinking about what other math problems I could write code to solve.
 
-  * Lab 8
+* Lab 8
  
     Lab 8, part 1, was a favorite because I enjoyed going through the command line arguments and putting them together. I wrote code that saved each command line argument to a variable and then formed a sentence
     with those variables. I enjoyed this assignment and thought about how websites also do this when greeting you after logging in.  
